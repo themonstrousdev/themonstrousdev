@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center">
+   <img src="http://i.picpar.com/tBpd.png" height="400px">
+</p>
+
+# Introduction
+I'll add more as I go!
 
 <!--
 **themonstrousdev/themonstrousdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
