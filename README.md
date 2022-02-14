@@ -12,7 +12,7 @@ I have so much to learn but I hope to only grow from here!
 - - - - -
 ### My Github Stats
 [![Elle's Github Stats](https://github-readme-stats.vercel.app/api?username=themonstrousdev&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/themonstrousdev)
-[![Elle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=themonstrousdev&layout=compact&theme=vue-dark)](https://github.com/themonstrousdev)
+[![Elle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=themonstrousdev&count_private=true&layout=compact&theme=vue-dark)](https://github.com/themonstrousdev)
 
 <!--
 **themonstrousdev/themonstrousdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
