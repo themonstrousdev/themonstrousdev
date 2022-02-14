@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://themonstrousdev.github.io/assets/main-logo.png" height="200px">
+   <img src="https://themonstrousdev.github.io/assets/icon.png" height="200px">
 </p>
 
 ## Introduction
