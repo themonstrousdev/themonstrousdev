@@ -3,7 +3,7 @@
 </p>
 
 ## Introduction
-Hello, everyone. You can refer to me by the name Elle and I'm a Computer Science student on my third year. Most of what you will see on this profile that are public are my old projects from back when I was freelancing. It's not much and I like to believe I've improved a lot since then. There may be a stray school project that will pop up every so often but for now, there's not much to see.
+Hello, everyone. You can refer to me by the name Elle and I'm a Computer Science student on my fourth year. Most of what you will see on this profile that are public are my old projects from back when I was freelancing. It's not much and I like to believe I've improved a lot since then. There may be a stray school project that will pop up every so often but for now, there's not much to see.
 
 I have so much to learn but I hope to only grow from here!
 - - - - -
